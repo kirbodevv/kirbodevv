@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">Developer from Germany</h3>
 
-- 🔭 I’m currently working on [S.A.U.W.](https://github.com/KirboGames/S.A.U.W.-)
+- 🔭 I’m currently working on [S.A.U.W.](https://github.com/KirboGames/S.A.U.W.-) and [curve-lib](https://github.com/KirboGames/curve-lib)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

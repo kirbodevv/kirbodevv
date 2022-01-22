@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [S.A.U.W.](https://github.com/KirboGames/S.A.U.W.-) and [curve-lib](https://github.com/KirboGames/curve-lib)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm here:</h3>
 <p align="left">
-<a href="https://instagram.com/kirbo_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirbo_official" height="30" width="40" /></a>
+<a href="https://instagram.com/kirbo_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirbo_official" height="30" width="40" /></a><a href="sptfy.com/Kirbo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="kirbo_official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

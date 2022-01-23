@@ -5,7 +5,7 @@
 
 <h3 align="left">I'm here:</h3>
 <p align="left">
-<a href="https://instagram.com/kirbo_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://sptfy.com/Kirbo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="spotify" height="30" width="40"/></a><a href="https://vk.com/kirb0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="vk" height="30" width="30" /></a>
+<a href="https://instagram.com/kirbo_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://vk.com/kirb0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="vk" height="30" width="30" /></a><a href="https://sptfy.com/Kirbo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="spotify" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

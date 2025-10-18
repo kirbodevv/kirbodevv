@@ -22,3 +22,8 @@ My name is Kirill and I'm a developer!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
+
+## Stats
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirbodevv&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirbodevv&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirbodevv&theme=dracula)|
+|-----|------|------|

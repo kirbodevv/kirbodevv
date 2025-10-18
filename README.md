@@ -1,5 +1,3 @@
-# Kirill Borisenko
-
 # Hey 👋 What's up?
 
 My name is Kirill and I'm a developer!
